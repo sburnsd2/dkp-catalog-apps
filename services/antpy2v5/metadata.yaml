@@ -13,9 +13,9 @@ overview: |-
   ## Installation
   Here is a link to documnetation for installation assistance that may be specialized for your environment.
 
-  ## THAAD Fire Control and Communications System
-  The THAAD Fire Control and Communications (TFCC) component oversees battery operations and relays fire control information to other elements of the joint force. Each system, known as a Tactical Station Group (TSG), incorporates a Tactical Operations Station (TOS) with two operating stations, a Launch Control Station (LCS), which includes wireless datalinks, networking equipment, and fiber optic cable interfaces, and a Station Support Group (SSG) which includes HMMWV-based antenna and cable support vehicles.
-
+  ## THAAD AN/TPY2
+  The Army Navy/Transportable Radar Surveillance and Control Model 2, or AN/TPY-2, is a transportable X-band, high-resolution, phased-array radar designed specifically for missile defense. The AN/TPY-2 is capable of tracking multiple classes of missiles and identifying small objects at long distances. In the forward-based mode, this radar plays a vital role in the missile defense system by acting as a forward based sensor, detecting missiles early in their flight and providing precise tracking information for use by the system. Use of multiple sensors provides overlapping sensor coverage, expands the missile defense system battle space, and complicates an enemy's ability to penetrate the defense system. In the terminal mode, the same radar provides surveillance, track, discrimination and fire control support for the Terminal High Altitude Area Defense (THAAD) weapon system.
+  
   ## Operations
   Operating in concert, these systems control battery launch operations and transfer fire control information from the AN/TPY-2 radar to the larger Command, Control, Battle Management, and Communications (C2BMC) network. By connecting with C2BMC, THAAD can exchange tracking data with Aegis, GMD, and Patriot missile defense. MDA first demonstrated a THAAD-cued Patriot intercept in 2020.17
   
