@@ -5,7 +5,7 @@ category:
 type: catalog
 allowMultipleInstances: false
 scope:
-- workspace
+- project
 overview: |-
   ## Revision Notes 
   Here are some notes on AFATDS version 6.8.1.2
