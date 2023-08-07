@@ -1,7 +1,7 @@
 displayName: AFATDS 6.8.1.3
 description: Advanced Field Artillery Tactical Data System 
 category:
-- THAAD TFCC 5.0
+- THAAD TFCC 6.0
 type: catalog
 allowMultipleInstances: false
 scope:
