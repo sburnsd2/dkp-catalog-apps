@@ -1,4 +1,4 @@
-displayName: AFATDS 6.8.1.2
+displayName: AFATDS 6.8.1.3
 description: Advanced Field Artillery Tactical Data System 
 category:
 - THAAD TFCC 5.0
@@ -8,7 +8,7 @@ scope:
 - workspace
 overview: |-
   ## Revision Notes 
-  Here are some notes on AFATDS version 6.8.1.2
+  Here are some notes on AFATDS version 6.8.1.3
 
   ## Installation
   Here is a link to documnetation for installation assistance that may be specialized for your environment.
