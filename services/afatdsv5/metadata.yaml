@@ -6,6 +6,9 @@ type: catalog
 allowMultipleInstances: false
 scope:
 - project
+certifications:
+  - certified
+  - airgapped
 overview: |-
   ## Revision Notes 
   Here are some notes on AFATDS version 6.8.1.2
