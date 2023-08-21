@@ -5,7 +5,7 @@ category:
 type: catalog
 allowMultipleInstances: false
 scope:
-- project
+- workspace
 certifications:
   - certified
   - airgapped
