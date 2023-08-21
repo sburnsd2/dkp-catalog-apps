@@ -3,7 +3,7 @@ description: Advanced Field Artillery Tactical Data System
 category:
 - THAAD TFCC 5.0
 type: catalog
-allowMultipleInstances: false
+allowMultipleInstances: true
 scope:
 - workspace
 certifications:
