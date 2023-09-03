@@ -1,7 +1,7 @@
 displayName: CVN71 Integration
 description: CVN71 Integration 
 category:
-- HW1 SW1 5TH Fleet
+- HW1 MOD01 SW1.2 5th Fleet
 type: catalog
 allowMultipleInstances: true
 scope:
