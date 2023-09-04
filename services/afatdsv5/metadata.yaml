@@ -1,7 +1,7 @@
 displayName: CVN71 ATAK Integration
 description: CVN71 Integration 
 category:
-- HW1.2 SW3 5TH Fleet
+- 5TH Fleet
 type: catalog
 allowMultipleInstances: true
 scope:

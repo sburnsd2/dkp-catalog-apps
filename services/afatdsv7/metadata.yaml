@@ -1,7 +1,7 @@
 displayName: CVN71 ATAK Integration
-description: CVN71 Integration 
+description: Joint Fires Integration
 category:
-- HW1.2 SW3 7TH Fleet
+- 7TH Fleet
 type: catalog
 allowMultipleInstances: true
 scope:
