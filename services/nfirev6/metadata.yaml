@@ -1,7 +1,7 @@
 displayName: NFIRE 
 description: Near Field InfraRed Experiment
 category:
-- THAAD TFCC 6.0
+- 7th Fleet
 type: catalog
 allowMultipleInstances: false
 scope:
