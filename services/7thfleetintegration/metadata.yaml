@@ -1,9 +1,9 @@
 displayName: 7th Fleet Reachback
 description: 7th Fleet Reachback
 category:
-- 7TH Fleet
+- 5TH Fleet
 type: catalog
-allowMultipleInstances: false
+allowMultipleInstances: true
 scope:
 - workspace
 overview: |-
