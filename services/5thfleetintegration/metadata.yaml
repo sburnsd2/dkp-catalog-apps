@@ -1,7 +1,7 @@
-displayName: 7th Fleet Reachback
-description: 7th Fleet Reachback
+displayName: 5th Fleet Reachback
+description: 5th Fleet Reachback
 category:
-- 7TH Fleet
+- 5TH Fleet
 type: catalog
 allowMultipleInstances: false
 scope:
