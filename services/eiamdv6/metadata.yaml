@@ -1,7 +1,7 @@
-displayName: EIAMD
-description: ENHANCED INTEGRATED AIR & MISSILE DEFENSE
+displayName: EIAMD GUAM
+description: ENHANCED INTEGRATED AIR & MISSILE DEFENSE GUAM
 category:
-- THAAD TFCC 6.0
+- 7th Fleet
 type: catalog
 allowMultipleInstances: false
 scope:
