@@ -1,7 +1,7 @@
 displayName: STSS 
 description: Space Tracking and Surveillance System
 category:
-- THAAD TFCC 5.0
+- 5th Fleet
 type: catalog
 allowMultipleInstances: false
 scope:
